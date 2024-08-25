@@ -4,9 +4,6 @@
 ;Remover menu
 (tool-bar-mode -1)
 
-;; teste
-;; teste 2.0
-
 ;; Numeros nas linhas
 (global-display-line-numbers-mode 1)
 
