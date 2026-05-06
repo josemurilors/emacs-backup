@@ -6,7 +6,7 @@ Configurações pessoais do editor Emacs.
 
 - **auto-complete** — Autocompletar código
 - **neotree** — Árvore de arquivos integrada
-- **elcord** — Integração com Discord (mostra статус no Discord)
+- **elcord** — Integração com Discord (mostra status no Discord)
 - **flycheck** — Verificador de sintaxe em tempo real
 - **ergoemacs-mode** — Atalhos de teclado ergonomicos
 - **timu-macos-theme** — Tema visual
